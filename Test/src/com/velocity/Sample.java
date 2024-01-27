@@ -15,5 +15,6 @@ public static void main(String[] args) {
 	for(int i=31;i<=40;i++) {
 			System.out.println(i);
 		}
+		System.out.println("New ssh key has has been successfully set");
 }
 }
